@@ -1,5 +1,3 @@
-# Contact me
-
 ## Instagram
 ![instagram](insta.jpeg)
 ## Telegram
