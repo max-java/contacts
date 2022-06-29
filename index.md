@@ -1,6 +1,8 @@
-# Instagram
+# Contact me
+
+## Instagram
 ![instagram](insta.jpeg)
-# Telegram
+## Telegram
 ![telegram](tg.jpg)
-# WhatsApp
+## WhatsApp
 ![whatsApp](whatsApp.jpeg)
